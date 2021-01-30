@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UnitConversionCalculator</string>
+    <string name="si_to_imperial">SI to Imperial</string>
+    <string name="imperial_to_si">Imperial to SI</string>
+    <string name="enter_number">Enter number</string>
+    <string-array name="dimension_type_array">
+        <item>Weight</item>
+        <item>Length</item>
+    </string-array>
+</resources>
